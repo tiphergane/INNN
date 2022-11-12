@@ -1,0 +1,7 @@
+Par chance, nous avons r\u00e9ussi \u00e0 trouver une information sur un container dans un syst\u00e8me appartenant au Dr Risk.
+
+
+
+Votre expertise pourra surement nous aider \u00e0 trouver des \u00e9lements int\u00e9ressants !
+
+registry.eu-west-0.prod-cloud-ocb.orange-business.com/risk-corp/nothing_app:latest

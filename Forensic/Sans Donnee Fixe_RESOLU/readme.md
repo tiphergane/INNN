@@ -2,7 +2,7 @@
 
 |difficulté|type|
 |:---:|:---:|
-|Difficile|Reverse|
+|Difficile|Forensic|
 
 ## Énoncé
 Une clé USB a été trouvée dans une poubelle verte par notre service d'entretien des surfaces.

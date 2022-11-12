@@ -8,9 +8,9 @@ En équipe, vous intégrerez l’organisation de prévention des risques cyber �
 ## Liste des WINS perso
 
 Forensic:
-* [Polypocket](./tree/main/Forensic/Polypocket_RESOLU)
-* [Sans Données Fixes](./tree/main/Forensic/Sans%20Données%20Fixes_RESOLU)
+* [Polypocket](/Forensic/Polypocket_RESOLU)
+* [Sans Données Fixes](/Forensic/Sans%20Données%20Fixes_RESOLU)
 
 Reverse:
-* [Le Pied Marin](./tree/main/Reverse/Le%20Pied%20Marin_RESOLU)
-* [All your base belong to us](./tree/main/Reverse/All%20your%20base%20belong%20to%20us_RESOLU)
+* [Le Pied Marin](/Reverse/Le%20Pied%20Marin_RESOLU)
+* [All your base belong to us](/Reverse/All%20your%20base%20belong%20to%20us_RESOLU)

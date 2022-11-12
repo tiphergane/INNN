@@ -1,0 +1,14 @@
+Update Available!
+You are running version 0.14.0. Version 0.14.2 is available at https://github.com/sherlock-project/sherlock
+[*] Checking username ImLucien_ on:
+
+
+[+] Instagram: https://www.instagram.com/ImLucien_
+[+] Pokemon Showdown: https://pokemonshowdown.com/users/ImLucien_
+[+] RuneScape: https://apps.runescape.com/runemetrics/app/overview/player/ImLucien_
+[+] Telegram: https://t.me/ImLucien_
+[+] Twitter: https://twitter.com/ImLucien_
+
+[*] Results: 5
+
+[!] End:  The processing has been finished.

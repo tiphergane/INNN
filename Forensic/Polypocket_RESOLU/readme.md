@@ -11,7 +11,7 @@ Il faut vraiment que nos services mettent \u00e0 jour notre serveur de messageri
 
 ## Analyse
 
-On nous fournis dans ce chall, un fichier .eml, vous pouvez l'analyser avec les outils que vous voulez, mais je vous déconseille d'utiliser un mailer quand vous êtes sur un email suspect.
+On nous fourni dans ce chall, un fichier .eml, vous pouvez l'analyser avec les outils que vous voulez, mais je vous déconseille d'utiliser un mailer quand vous êtes sur un email suspect.
 Pour ma part, je vais utiliser mon bon vieux Vim:
 
 ![email](./IMG/email.png)

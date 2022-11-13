@@ -14,3 +14,6 @@ Forensic:
 Reverse:
 * [Le Pied Marin](/Reverse/Le%20Pied%20Marin_RESOLU)
 * [All your base belong to us](/Reverse/All%20your%20base%20belong%20to%20us_RESOLU)
+
+OSINT:
+* [Super Stalker](/OSINT/Super%20Stalker_RESOLU)
